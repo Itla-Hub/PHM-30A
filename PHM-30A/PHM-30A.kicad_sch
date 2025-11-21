@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0ef8c162-869a-4128-ab7b-d286ae615d25")
+	(paper "USLetter")
+	(title_block
+		(title "PHM-30A")
+		(date "2025-11-21")
+		(rev "1.0")
+		(company "ITLA-HUB")
+		(comment 1 "Carlos Pichardo Viuque")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
